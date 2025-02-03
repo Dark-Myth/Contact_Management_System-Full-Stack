@@ -97,8 +97,6 @@ $dbname = "contact_management_system";
 
 ## Security Features
 
-- Password hashing
-- SQL injection prevention
 - Session management
 - Input validation
 - File upload validation
